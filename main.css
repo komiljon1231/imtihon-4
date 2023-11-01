@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-item{
+    color: white;
+}
+
+.p-3{
+background-color: #393187;
+height: 250px;
+}
+
+
+.logo {
+    color: black;
+}
+.img4{
+    display: flex;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.as {
+    margin-left: auto;
+    margin-right: auto;
+    height: 294px;
+    width: 1140px;
+    background-color: #393187;
+}
+
+.text {
+    font-size: 100px;
+}
+
+.card_title{
+    display: flex;
+    gap: 150px;
+    padding: 30px;
+}
+
+.carousel_img{
+    padding: 150px;
+}
+
+.img_flesh{
+    display: flex;
+    gap: 150px;
+    padding: 30px;
+}
+
+.card_phone{
+    display: flex;
+    gap: 150px;
+    padding: 30px;
+}
+
+
+.div_img{
+    text-align: center;
+    padding: 50px;
+}
+
+.team{
+    display: flex;
+}
+
+.team_img{
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+
+.img_footer{
+    display: flex;
+    margin: 15px;
+    gap: 60px;
+    background-color: aqua;
+
+}
+
+.dp{
+    display: flex;
+    gap: 40px;
+}
